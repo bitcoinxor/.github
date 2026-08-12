@@ -20,7 +20,7 @@ These are the only authentic sources for this project:
 
 - GitHub: this org, plus the [xorminer](https://github.com/xorminer) and
   [xorpool](https://github.com/xorpool) placeholder orgs
-- Web: [bitcoinxor.com](https://bitcoinxor.com) ·
+- Web: [bitcoinxor.org](https://bitcoinxor.org) ·
   [xorminer.com](https://xorminer.com) · [xorpool.com](https://xorpool.com)
 
 Anything else claiming to be this project is an impersonation — never
