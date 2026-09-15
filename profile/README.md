@@ -13,6 +13,9 @@ BIP-110 developers.
 - **[xorminer](https://github.com/bitcoinxor/xorminer)** — getblocktemplate
   miner with a pluggable hash kernel, plus **xorpool**, a TIDES-style
   non-custodial pool coordinator (Python reference + Java implementation).
+- **[datum-in-a-box](https://github.com/bitcoinxor/datum-in-a-box)** — build your own
+  blocks: a one-command installer and step-by-step guide for running your own Knots
+  (BLAKE2b) node + DATUM gateway, paid through the xorpool DATUM pool at 1%.
 
 ## Official homes
 
